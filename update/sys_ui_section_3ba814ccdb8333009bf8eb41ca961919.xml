@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3ba814ccdb8333009bf8eb41ca961919" sys_domain="global" table="x_326518_c2c_jrm" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_kpim_ready</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f5566c08dbc333009bf8eb41ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>79566c08dbc333009bf8eb41ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_related_applications</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f9566c08dbc333009bf8eb41ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_function</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>7d566c08dbc333009bf8eb41ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_point_of_contact_at</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>fd566c08dbc333009bf8eb41ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nuid_approver_email</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>71566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_role_server_access_group</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f1566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_parent_role_access_group</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>75566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_account_type</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f5566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_primary_ad_unix_group</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>79566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other_ad_unix_groups</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f9566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nuida_in_papmnuida</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>7d566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nuid_in_papmusers</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>fd566c08dbc333009bf8eb41ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other_unix_access</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>71566c08dbc333009bf8eb41ca96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_unix_shell</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f1566c08dbc333009bf8eb41ca96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>75566c08dbc333009bf8eb41ca96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_server</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>f5566c08dbc333009bf8eb41ca96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_notes</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 20:43:11</sys_created_on>
+            <sys_id>79566c08dbc333009bf8eb41ca96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_326518_c2c_jrm" sys_domain="global" view="Default view">3ba814ccdb8333009bf8eb41ca961919</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 20:43:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_326518_c2c_jrm</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-29 19:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ba814ccdb8333009bf8eb41ca961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_326518_c2c_jrm</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Click2Cloud" source="x_326518_c2c">931b5f37db3233009bf8eb41ca961944</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Click2Cloud">931b5f37db3233009bf8eb41ca961944</sys_scope>
+            <sys_update_name>sys_ui_section_3ba814ccdb8333009bf8eb41ca961919</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-29 19:43:31</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

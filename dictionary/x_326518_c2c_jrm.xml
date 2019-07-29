@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="JRM" max_length="40" name="x_326518_c2c_jrm" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Account_type" max_length="40" name="u_account_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="u_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Function" max_length="40" name="u_job_function" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="KPIM Ready" max_length="40" name="u_kpim_ready" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LOCAL unix groups" max_length="40" name="u_local_unix_groups" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="NUIDa in PAPMNUIDa" max_length="40" name="u_nuida_in_papmnuida" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="NUID Approver email" max_length="40" name="u_nuid_approver_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="NUID in PAPMUsers" max_length="40" name="u_nuid_in_papmusers" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other AD UNIX groups" max_length="40" name="u_other_ad_unix_groups" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other UNIX Access" max_length="40" name="u_other_unix_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent Role Access Group" max_length="40" name="u_parent_role_access_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Point of Contact at" max_length="40" name="u_point_of_contact_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary AD UNIX group" max_length="40" name="u_primary_ad_unix_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Related Applications" max_length="40" name="u_related_applications" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Role_Server_Access_Group" max_length="40" name="u_role_server_access_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Server" max_length="40" name="u_server" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unix Shell" max_length="40" name="u_unix_shell" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User" max_length="40" name="u_user" type="string"/>
+    </element>
+</database>
