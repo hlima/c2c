@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="jsonfile" label="jsonFile" language="en" table="var__m_sys_hub_action_output_ca7f5c54db0333009bf8eb41ca9619f3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>jsonfile</element>
+            <help/>
+            <hint/>
+            <label>jsonFile</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_ca7f5c54db0333009bf8eb41ca9619f3</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-30 14:51:39</sys_created_on>
+            <sys_id>da7f9c54db0333009bf8eb41ca961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>jsonFile</sys_name>
+            <sys_package display_value="Click2Cloud" source="x_326518_c2c">931b5f37db3233009bf8eb41ca961944</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Click2Cloud">931b5f37db3233009bf8eb41ca961944</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_ca7f5c54db0333009bf8eb41ca9619f3_jsonfile_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-30 14:51:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
