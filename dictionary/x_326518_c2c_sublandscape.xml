@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sublandscape" max_length="40" name="x_326518_c2c_sublandscape" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

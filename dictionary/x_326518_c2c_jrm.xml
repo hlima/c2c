@@ -2,7 +2,7 @@
     <element label="JRM" max_length="40" name="x_326518_c2c_jrm" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Account_type" max_length="40" name="u_account_type" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="u_category" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Job Function" max_length="40" name="u_job_function" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Job Function" max_length="40" name="u_job_function" type="string"/>
         <element label="Job Function Description" max_length="200" name="u_job_function_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="KPIM Ready" max_length="40" name="u_kpim_ready" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="LOCAL unix groups" max_length="40" name="u_local_unix_groups" type="string"/>

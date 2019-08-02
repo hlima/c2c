@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_326518_c2c.GetJobFunctions</api_name>
+        <client_callable>true</client_callable>
+        <description>Gets all job functions associated witth an application</description>
+        <name>GetJobFunctions</name>
+        <script><![CDATA[var GetJobFunctions = Class.create();
+GetJobFunctions.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	getFunctions: function () {
+		var newValue = this.getParameter('sysparm_relatttedap');
+		var target = new GlideRecord('x_326518_c2c_jrm');
+		gs.info("Querying Job Functions: "+newValue);
+		target.addQuery('u_related_applications','=',newValue);
+		target.addQuery('u_kpim_ready','=','yes');
+		target.addQuery('u_role_server_access_group','DOES NOT CONTAIN',',');
+		target.addQuery('u_parent_role_access_group','=','');
+		target.query();
+		
+		var result = [];
+		var i =0 ;
+		
+		while (target.next()) {
+// 			gs.info('adding new value: '+target.getValue('u_job_function'));
+			result[i]=target.getValue('u_job_function');
+//			gs.info(result[i]);
+			i++;
+		}
+// 		var parser = new JSON();
+		var parser = new global.JSON();
+// 		gs.info("result is: "+parser.encode(result));
+		return parser.encode(result);
+// 		return "nada";
+		
+		
+	},
+	
+	type: 'GetJobFunctions'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 10:44:07</sys_created_on>
+        <sys_id>0d6535f0db4b73009bf8eb41ca96197e</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>GetJobFunctions</sys_name>
+        <sys_package display_value="Click2Cloud" source="x_326518_c2c">931b5f37db3233009bf8eb41ca961944</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Click2Cloud">931b5f37db3233009bf8eb41ca961944</sys_scope>
+        <sys_update_name>sys_script_include_0d6535f0db4b73009bf8eb41ca96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 14:39:00</sys_updated_on>
+    </sys_script_include>
+</record_update>
